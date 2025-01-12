@@ -6,7 +6,12 @@ A modern CLI based Reverse Shell generator tool based on python3
 pip3 install rich InquirerPy pyperclip
 ```
 
-### Usage
+### Installation & Usage
 ```python
-$ python3 rev.py
+git clone https://github.com/HarshSankhala23/RevShell.git
+cd RevShell
+sudo chmod +x revshell
+sudo cp revshell /usr/local/bin
+
+revshell
 ```
