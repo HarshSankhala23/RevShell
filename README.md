@@ -1,5 +1,5 @@
 # RevShell
-A modern CLI based Reverse Shell generator tool based on python3
+A modern CLI based Reverse Shell generator tool
 
 ### Prerequisites 
 ```
