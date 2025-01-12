@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import pyperclip
 from rich.console import Console
 from rich import print
